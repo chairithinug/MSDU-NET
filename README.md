@@ -37,7 +37,7 @@ The graph of the training-test losses and accuracies may not make much sense. Bu
 ![Losses and accuracies](/images/losses_and_accuracies.png)
 
 ## My machine
-The model was trained using Nvidia RTX 3070 with 8 GB of memory. It took around to finish the training process.
+The model was trained using Nvidia RTX 3070 with 8 GB of memory. It took around 45 minutes to finish the training process.
 
 ## Reflection
 This repo is the first time I tried to implement a model following a paper on my own. I did not know about the image segmentation, UNet, dilated convolutions, weight_decay, and learning_rate scheduler before. It was a great learning experience!
